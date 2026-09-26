@@ -1,0 +1,25 @@
+{
+  "name": "আছিরগঞ্জ আলিম মাদরাসা",
+  "short_name": "আছিরগঞ্জ মাদরাসা",
+  "description": "আছিরগঞ্জ আলিম মাদরাসার ডিজিটাল তথ্য ও ফলাফল পোর্টাল",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8f3e8",
+  "theme_color": "#073328",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
